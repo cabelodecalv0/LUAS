@@ -1,2 +1,1 @@
-# LUAS
-ALUAA
+# ta-no-jogo-e-pra-usar
